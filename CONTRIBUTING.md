@@ -8,6 +8,8 @@ We love your input! We want to make contributing to this project as easy and tra
 - Proposing new features
 - Becoming a maintainer
 
+#### Note: This repository (Aegis) is used to maintain the SystemGuard tool internally. For the initial project, check out:- [SystemGuard](https://github.com/codeperfectplus/SystemGuard/)
+
 ## Steps to contribute
 
 - Comment on the issue you want to work on. Make sure it's not assigned to someone else.
@@ -21,7 +23,7 @@ We love your input! We want to make contributing to this project as easy and tra
 - Add a upstream link to main branch in your cloned repo
 
     ```sh
-    git remote add upstream https://github.com/SystemGuard-official/SystemGuard.git
+    git remote add upstream https://github.com/Py-Contributors/Aegis.git
     ```
 
 - Keep your cloned repo upto date by pulling from upstream (this will also avoid any merge conflicts while committing new changes)
@@ -82,4 +84,4 @@ When you are creating an issue, make sure it's not already present. Furthermore,
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under its  [MIT License](http://choosealicense.com/licenses/mit/).
+By contributing, you agree that your contributions will be licensed under its [MIT License](http://choosealicense.com/licenses/mit/).
