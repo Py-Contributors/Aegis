@@ -8,7 +8,7 @@ GPUtil==1.4.0               # Retrieves GPU metrics (if available)
 
 # Environment variable management
 python-dotenv==1.2.2        # Loads environment variables from .env file
-cryptography==46.0.7
+cryptography==48.0.1
 
 # WSGI HTTP server for production
 gunicorn==23.0.0            # Production server for running Flask applications
